@@ -1,0 +1,26 @@
+//Global Variables
+$mainColor : #777777;
+$borderColor : #cccccc;
+$sideBarBackgroundColor : #fff;
+$footerBackgroundColor : #fff;
+$logoColor : #e77e2c;
+$menuColor : #7b7b7b;
+$linkColor : #48a2df;
+
+$dashboardMarginTop : 49px;
+$sideBarWidth : 230px;
+$sideBarBottomMenuBackgroundColor : #e4e4e4;
+$sideBarBottomExitColor : #c3d0d6;
+$bgWhite : #fff;
+
+.error {
+  color:red;
+  ul {
+    margin: 5px 0;
+    padding: 0;
+    li {
+      list-style: none;
+      text-align: left;
+    }
+  }
+}
