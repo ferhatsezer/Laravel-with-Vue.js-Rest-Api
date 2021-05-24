@@ -1,4 +1,4 @@
-# limonist-case
+Case
 
 ## Project setup
 ```
